@@ -1,0 +1,5 @@
+.video-overlay-bg video {
+    width: 100%;
+    position: relative;
+    mask-image: linear-gradient(0deg,rgb(0 0 0) 50%,rgb(0 212 255 / 0%) 100%);
+}
